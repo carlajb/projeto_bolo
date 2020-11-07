@@ -26,7 +26,7 @@
 
 <body> 
 <from>
-<label for="pname"><center> NOME</center> </label> 
+<center><label for="pname"> NOME </label> </center>
 <center> <input type = "text" id="pname" nome="nome_cliente"> </center><br>
 
 <center><label for="num"> NUMERO DE TELEFONE</label></center>

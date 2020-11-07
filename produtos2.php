@@ -1,16 +1,45 @@
+
+
 <?php
 
-  require_once "./php/actions/db_connection.php";
+ require_once "./php/actions/db_connection.php";
 
 ?>
+
+<!--<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <a class="navbar-brand" href="#">navbar</a></nav>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse"
+  data-target="#collapsenavbar">
+  <span class="navbar-toggler-icon"></span></button>
+
+<div class ="collapse navbar-collapse" id="collapsenavbar">
+  <ul class="nav">
+    <li class="nav item"> 
+    <a class = "nav-link text-white" href="#">peca online<a>
+</li>
+
+<li class="nav-item dropdown"> 
+    <a class = "nav-link dropdown-toggle text-wite" href="#"
+      id="navdrop_cardapio" data-toggle="dropdown">cardapio</a>
+      <div class="dropdown-menu bg-primary">
+        <a class ="dropdown-item" href="#">hhhhhhhhhhh</a>
+</div>
+
+</li>-->
+
+
+
 <div class="p-3 mb-2 bg-warning text-dark">
 <nav aria-label="breadcrumb" >
   <ol class="breadcrumb">
     <li class="breadcrumb-item active"  aria-current="page"><b>LISTA DE PRODUTOS</b></li>
   </ol>
 </nav>
-</div>
+</div>-->
 
+</body>
 
 <div class="container-fluid">
   <div class="row"> 
